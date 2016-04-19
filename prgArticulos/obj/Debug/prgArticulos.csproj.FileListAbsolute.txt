@@ -1,0 +1,24 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\prgArticulos.exe.config
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\prgArticulos.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\prgArticulos.pdb
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.frmAcceso.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.pdb
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\bin\Debug\prgArticulos.exe.config
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\obj\Debug\prgArticulos.exe
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\obj\Debug\prgArticulos.pdb
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\bin\Debug\prgArticulos.exe
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\bin\Debug\prgArticulos.pdb
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\obj\Debug\prgArticulos.csprojResolveAssemblyReference.cache
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\obj\Debug\prgArticulos.frmAcceso.resources
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\obj\Debug\prgArticulos.Properties.Resources.resources
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\obj\Debug\prgArticulos.csproj.GenerateResource.Cache
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\bin\Debug\clsConexionSQL.dll
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\bin\Debug\Controlador.dll
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\bin\Debug\clsConexionSQL.pdb
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\bin\Debug\Controlador.pdb
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\obj\Debug\prgArticulos.mdiMenu.resources
+C:\Users\Cristhian C\Desktop\prgArticulos\prgArticulos\obj\Debug\prgArticulos.frmUsuarios.resources

@@ -1,0 +1,7 @@
+C:\Users\Cristhian C\Desktop\prgArticulos\Controlador\bin\Debug\Controlador.dll
+C:\Users\Cristhian C\Desktop\prgArticulos\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Cristhian C\Desktop\prgArticulos\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\Cristhian C\Desktop\prgArticulos\Controlador\obj\Debug\Controlador.dll
+C:\Users\Cristhian C\Desktop\prgArticulos\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Cristhian C\Desktop\prgArticulos\Controlador\bin\Debug\clsConexionSQL.dll
+C:\Users\Cristhian C\Desktop\prgArticulos\Controlador\bin\Debug\clsConexionSQL.pdb
